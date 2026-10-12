@@ -1,0 +1,5 @@
+# 排除第三方套件與本機環境設定
+/vendor/
+.env
+.DS_Store
+Thumbs.db
